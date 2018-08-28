@@ -1,3 +1,6 @@
+
+**THIS IS A FORKED VERSION**
+
 # Object Container by Attido
 
 Object Container is a customizable master object container extension for Qlik Sense. It includes custom colors, fonts, object heights, etc. In addition, conditional show is implemented on objects. Space can be also saved when using Object Container, eg., when using several list boxes.
